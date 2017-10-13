@@ -1,0 +1,4 @@
+Code review is systematic examination (sometimes referred to as peer review) 
+of computer source code. It is intended to find mistakes overlooked 
+in software development, improving the overall quality of software.
+
